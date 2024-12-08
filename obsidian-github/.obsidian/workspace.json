@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf123325fc8ec3a",
+        "id": "b3edc371a1259f51",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2da6b4df968026",
+            "id": "2e7408cbf2cf68b2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c2da6b4df968026",
+  "active": "2e7408cbf2cf68b2",
   "lastOpenFiles": [
     "01. 데이터 중심 어플리케이션 설계/04장. 부호화와 발전.md",
     "01. 데이터 중심 어플리케이션 설계/02장. 데이터 모델과 질의 언어.md",
